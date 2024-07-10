@@ -11,6 +11,10 @@
     <artifactId>time-tracker-web</artifactId>
     <packaging>war</packaging>
     <name>Time Tracker (Web)</name>
+	
+	<!--
+	Cherry Pick Me!
+	-->
 
     <dependencies>
         <dependency>
