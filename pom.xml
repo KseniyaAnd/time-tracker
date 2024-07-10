@@ -27,6 +27,10 @@
         <module>core</module>
         <module>web</module>
     </modules>
+	
+	<!--
+		Something there
+	-->
 
     <build>
         <pluginManagement>
